@@ -7,7 +7,7 @@
 <br>
 
 ## 🚀 프로덕트 체험하기 (Streamlit Link)
-👉 **[여기를 클릭하여 ScoreLess 프로토타입 체험하기](여기에_Streamlit_Cloud_배포_링크_주소_넣기)**
+👉 **[여기를 클릭하여 ScoreLess 프로토타입 체험하기](https://scoreless-9mlepugskgzrfxqvzwgzd8.streamlit.app/)**
 
 ---
 
